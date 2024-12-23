@@ -1,0 +1,20 @@
+
+header{
+
+    top: 0;
+    position: absolute;
+    width: 75%;
+    height: 40px;
+    color: black;
+    font-size: medium;
+}
+
+footer{
+
+    bottom: 0;
+    position: absolute;
+    width: 75%;
+    height: 40px;
+    color: black;
+    font-size: medium;
+}
